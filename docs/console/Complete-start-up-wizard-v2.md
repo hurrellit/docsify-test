@@ -1,12 +1,3 @@
-/\*<!\[CDATA\[\*/ div.rbtoc1678459376297 {padding: 0px;} div.rbtoc1678459376297 ul {list-style: disc;margin-left: 0px;} div.rbtoc1678459376297 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
-
-*   [Introduction](#Completestartupwizardv.2.x-Introduction)
-*   [Validate License](#Completestartupwizardv.2.x-ValidateLicense)
-*   [CAST Extend options](#Completestartupwizardv.2.x-CASTExtendoptions)
-    *   [Connect to CAST Extend](#Completestartupwizardv.2.x-ConnecttoCASTExtend)
-        *   [Proxy Configuration (optional)](#Completestartupwizardv.2.x-ProxyConfiguration(optional))
-    *   [Review](#Completestartupwizardv.2.x-Review)
-
 Introduction
 ============
 
